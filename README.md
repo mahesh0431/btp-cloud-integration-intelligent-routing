@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-services-intelligent-routing)](https://api.reuse.software/info/github.com/SAP-samples/btp-services-intelligent-routing) 
 
-# Ensure SAP BTP service high availability with Hyperscaler routing 
+# Route multi-region traffic to SAP BTP services intelligently 
 
 ## Description
 
