@@ -1,10 +1,10 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-services-intelligent-routing)](https://api.reuse.software/info/github.com/SAP-samples/btp-services-intelligent-routing) 
 
-# Route multi-region traffic to SAP BTP services intelligently 
+# Route multi-region traffic to SAP Business Technology Platform services intelligently 
 
 ## Description
 
-Critical business use cases built on SAP BTP need to be highly available and responsive. While availability zones help with disruptions in a single region, application developers and administrators are responsible for availability and stability in cases of regional outage or application upgrades. This scenario demonstrates techniques for load balancing, failover, and latency reduction of BTP services, such as SAP Launchpad and SAP Cloud Integration, with Hyperscaler traffic management solutions like Azure Traffic Manager.
+Critical business use cases built on SAP Business Technology Platform need to be highly available and responsive. While availability zones help with disruptions in a single region, application developers and administrators are responsible for availability and stability in cases of regional outage or application upgrades. This scenario demonstrates techniques for load balancing, failover, and latency reduction of BTP services, such as SAP Launchpad service and SAP Cloud Integration, with Hyperscaler traffic management solutions like Azure Traffic Manager.
 
 ### Challenge
 
@@ -20,11 +20,11 @@ A cloud-native integration pattern that incorporates SAP BTP and Hyperscaler ser
 
 ### Implementations
 
-#### [Intelligent Routing for SAP Cloud Integration using Azure Traffic Manager](https://github.tools.sap/SAP-samples/btp-services-intelligent-routing/tree/cloudintegration_azure)
+[Intelligent Routing for SAP Cloud Integration using Azure Traffic Manager](https://github.tools.sap/SAP-samples/btp-services-intelligent-routing/tree/cloudintegration_azure)
 
 In this scenario, you will learn how to achieve the high availability of a Cloud Integration flow built by a customer using SAP Custom Domain service & Azure traffic manager. 
 
-#### [High Availability of SAP Launchpad service on SAP Business Technology Platform using Azure Traffic Manager](https://github.tools.sap/SAP-samples/btp-services-intelligent-routing/tree/launchpad_azure)
+[High Availability of SAP Launchpad service on SAP Business Technology Platform using Azure Traffic Manager](https://github.tools.sap/SAP-samples/btp-services-intelligent-routing/tree/launchpad_azure)
 
 This scenario will be similar to the above one, but here we will achieve the high availability of the SAP Launchpad service, a SaaS application managed by SAP.
 
