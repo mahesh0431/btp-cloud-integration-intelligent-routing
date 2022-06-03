@@ -167,10 +167,10 @@ The steps below describe the process using a custom domain bought via AWS. The p
 
     > **runtimedestinationname** here is s4hanart, which you created in [2nd exercise, step 25](../02-Configuring%20S_4HANA%20system%20for%20Content%20Federation/README.md#runtimedest)
 
-22. Open a support ticket to Operation team as detailed in the below help URL to complete your custom domain configuration for your Launchpad service, which will take up to 4 weeks.
+22. Open a support ticket to the Operations team as detailed in the below help URL to complete your custom domain configuration for your Launchpad service, which will take up to 4 weeks.
 > URL: https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/4227d14bef984e039c8cc782a7da74f8.html?version=Cloud
 
-23. **Execute all of the steps for the second subaccount!**
+1.  **Execute all of the steps for the second subaccount!**
 
 Congratulations! You have created a certificate for your domain using Certbot. With the help of the SAP Custom Domain service you registered the domain in the subaccounts in which you also provisioned SAP Launchpad service and mapped its URL to the actual domain.
 
