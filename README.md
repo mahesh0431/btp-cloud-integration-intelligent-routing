@@ -34,7 +34,7 @@ A cloud native integration pattern that incorporates SAP BTP and AWS to eliminat
 ## Solution
 
 - Using your own domain for SAP Launchpd service using the SAP Custom Domain service
-- Configuring AWS Route 53 and different AWS Route 53 profiles to decouple connection information
+- Configuring AWS Route 53 and different routing policies for the SAP Launchpad service
 
 ## Requirements
 
@@ -69,7 +69,7 @@ Subscriptions required in your SAP Business Technology Platform Account:
 
 [Step 4: Map Custom Domain Routes](./04-Map%20Custom%20Domain%20Routes/)
 
-[Step 5: Setup AWS Route 53 - Portal](./05-Setup%20Azure%20Traffic%20Manager-Portal/)
+[Step 5: Setup AWS Route 53 - Portal](./05-Setup%20AWS%20Route%2053-Console/)
 
 [Step 6: Test Failover Scenario](./06-Test%20Failover%20Scenario/)
 
